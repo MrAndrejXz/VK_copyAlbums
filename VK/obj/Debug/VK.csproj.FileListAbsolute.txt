@@ -16,3 +16,6 @@ C:\Users\Андрей\Desktop\VK_download_Album — копия\VK\obj\Debug\VK.p
 C:\Users\Андрей\Desktop\VK_download_Album — копия\VK\bin\Debug\VK.exe
 C:\Users\Андрей\Desktop\VK_download_Album — копия\VK\bin\Debug\VK.pdb
 C:\Users\Андрей\Desktop\VK_download_Album — копия\VK\obj\Debug\VK.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\VK_download_Album — копия\VK_copyAlbums\VK\bin\Debug\VK.exe.config
+C:\Users\Андрей\Desktop\VK_download_Album — копия\VK_copyAlbums\VK\obj\Debug\VK.exe
+C:\Users\Андрей\Desktop\VK_download_Album — копия\VK_copyAlbums\VK\obj\Debug\VK.pdb
