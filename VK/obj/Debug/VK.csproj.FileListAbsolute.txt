@@ -1,0 +1,18 @@
+c:\documents\visual studio 2013\Projects\VK\VK\bin\Debug\VK.exe.config
+c:\documents\visual studio 2013\Projects\VK\VK\bin\Debug\VK.exe
+c:\documents\visual studio 2013\Projects\VK\VK\bin\Debug\VK.pdb
+c:\documents\visual studio 2013\Projects\VK\VK\obj\Debug\VK.exe
+c:\documents\visual studio 2013\Projects\VK\VK\obj\Debug\VK.pdb
+c:\documents\visual studio 2013\Projects\VK\VK\obj\Debug\VK.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\VK_download_Album\VK\bin\Debug\VK.exe.config
+C:\Users\Андрей\Desktop\VK_download_Album\VK\obj\Debug\VK.exe
+C:\Users\Андрей\Desktop\VK_download_Album\VK\obj\Debug\VK.pdb
+C:\Users\Андрей\Desktop\VK_download_Album\VK\bin\Debug\VK.exe
+C:\Users\Андрей\Desktop\VK_download_Album\VK\bin\Debug\VK.pdb
+C:\Users\Андрей\Desktop\VK_download_Album\VK\obj\Debug\VK.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\VK_download_Album — копия\VK\bin\Debug\VK.exe.config
+C:\Users\Андрей\Desktop\VK_download_Album — копия\VK\obj\Debug\VK.exe
+C:\Users\Андрей\Desktop\VK_download_Album — копия\VK\obj\Debug\VK.pdb
+C:\Users\Андрей\Desktop\VK_download_Album — копия\VK\bin\Debug\VK.exe
+C:\Users\Андрей\Desktop\VK_download_Album — копия\VK\bin\Debug\VK.pdb
+C:\Users\Андрей\Desktop\VK_download_Album — копия\VK\obj\Debug\VK.csprojResolveAssemblyReference.cache
