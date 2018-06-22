@@ -107,7 +107,7 @@ namespace VK
                 saveAlbum(obj["response"]["items"][i]);
                 offset.offsetGroup++;
                 offset.offsetPhoto = 0;
-                File.WriteAllText(@"Settings\offset.txt", jSS.Serialize(offset));
+                File.WriteAllText(@"Settings\offset", jSS.Serialize(offset));
             }
         }
 
